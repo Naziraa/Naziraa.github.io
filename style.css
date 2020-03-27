@@ -1,0 +1,5 @@
+body {background-image: url("blue.jpg");}
+h1 {color:	navy;font-size: 20px;text-align: center;}
+p {color:	violet;text-align: center;}
+ul {color:	white; background-color: rgb(198, 135, 147,0.4)}
+img {border-radius: 50%;display: block;margin-left: auto;margin-right: auto;}
